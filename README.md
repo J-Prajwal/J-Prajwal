@@ -9,9 +9,11 @@
 <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
 <h3 align="center">I dream to get recognized globally by something that I can do for my society.</h3>
 
-<h2><i>Tech Stack</i></h2>
+<br />
 
-<p>
+<h2 align="center"><i>Tech Stack</i></h2>
+
+<p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
@@ -52,10 +54,11 @@
 <a href="https://instagram.com/the_defamed_achiever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_defamed_achiever" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-prajwal&show_icons=true&locale=en&layout=compact" alt="j-prajwal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-prajwal&show_icons=true&locale=en" alt="j-prajwal" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-prajwal&" alt="j-prajwal" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/j-prajwal)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=j-prajwal)  
+
+![GitHub metrics](https://metrics.lecoq.io/j-prajwal)  
+
