@@ -41,11 +41,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/J-Prajwal?tab=repositories](https://github.com/J-Prajwal?tab=repositories)
 
-- 💬 Ask me about **JavaScript, React, NodeJS, MongoDB, Express**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, ElectronJs, Git & Bash**
 
 - 📫 How to reach me **jaisprajwal.1999@gmail.com**
 
-- ⚡ Fun fact **I think I have a good sense of humour**
+- ⚡ Fun fact **I think I understand my own written code 😝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
