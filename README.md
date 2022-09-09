@@ -1,4 +1,4 @@
-<!-- ![MasterHead](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966) -->
+<!-- <img  width="50%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /> -->
 
 <h1 align="center">
     Hi
@@ -6,8 +6,17 @@
     I'm Prajwal Jaiswal
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
-<h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society.</h3>
+<table border="0">
+    <tr>
+        <td>
+            <h2 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team. <br /> I dream to get recognized globally by something that I can do for my society.</h2>
+        </td>
+        <td>
+            <img  src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="j-prajwal" />
+        </td>
+    </tr>
+</table>
+
 
 <br />
 
@@ -51,14 +60,10 @@
 <p align="left">
 <a href="https://twitter.com/prajwal_jais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal_jais" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prajwal-jaiswal-3772aa215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal jaiswal" height="30" width="40" /></a>
-<a href="https://instagram.com/the_defamed_achiever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_defamed_achiever" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-prajwal&" alt="j-prajwal" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-prajwal&" alt="j-prajwal" />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/j-prajwal)  
+![GitHub metrics](https://metrics.lecoq.io/j-prajwal)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=j-prajwal)  
-
-![GitHub metrics](https://metrics.lecoq.io/j-prajwal)  
-
