@@ -8,16 +8,16 @@
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
 <h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="http://vivekgoswami-portfolio.netlify.com/">
   <br />  <br />  
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="vivekgoswami-portfolio.netlify.com/" /></h3>
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="j-prajwal.netlify.app" /></h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/vivekgoswami934">
-        <img src="https://komarev.com/ghpvc/?username=vivekgoswami934&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgoswami934" />
+    <a href="https://github.com/j-prajwal">
+        <img src="https://komarev.com/ghpvc/?username=j-prajwal&label=Profile%20views&color=0e75b6&style=flat" alt="j-prajwal" />
     </a>
-    <a href="https://github.com/vivekgoswami934?tab=followers">
-        <img src="https://img.shields.io/github/followers/vivekgoswami934?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/j-prajwal?tab=followers">
+        <img src="https://img.shields.io/github/followers/j-prajwal?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
