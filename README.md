@@ -6,7 +6,7 @@
  <br/></h2>
  
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="http://vivekgoswami-portfolio.netlify.com/">
+<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="http://j-prajwal.netlify.app/">
   <br />  <br />  
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="j-prajwal.netlify.app" /></h3>
 
@@ -58,8 +58,8 @@
     <a href="https://twitter.com/vivekgoswami934">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/vivekgoswami934" />
     </a>
-    <a href="http://vivekgoswami-portfolio.netlify.com/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="vivekgoswami-portfolio.netlify.com/" />
+    <a href="http://j-prajwal.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="j-prajwal.netlify.app/" />
   
 </p>
 <br>
@@ -69,7 +69,7 @@
 <h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
 <hr>
 <p align="left">
-<a href="https://github.com/vicky-masai">
+<a href="https://github.com/j-prajwal">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=j-prajwal&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=j-prajwal&layout=compact&langs_count=8&theme=algolia"/>
   <p align="center">
